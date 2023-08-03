@@ -1,5 +1,3 @@
-
-
 public class EmptyOrDigitsOnlyException extends RuntimeException {
     public EmptyOrDigitsOnlyException(String fieldName) {
         super(fieldName + " cannot be empty. It cannot have only digits! Please correct this.");

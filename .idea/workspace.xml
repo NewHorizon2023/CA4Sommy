@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7eed9627-6bf5-47d8-8017-0317e07509ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AddNewAlbumRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmptyOrDigitsOnlyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Experiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Experiment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReadData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/old/EmptyOrDigitsOnlyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/EmptyOrDigitsOnlyException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/old/ReadAlbumData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/ReadAlbumData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmptyOrDigitsOnlyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmptyOrDigitsOnlyException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,11 +122,33 @@
       <option name="presentableId" value="Default" />
       <updated>1691090308603</updated>
       <workItem from="1691090309610" duration="1012000" />
-      <workItem from="1691096393793" duration="3348000" />
+      <workItem from="1691096393793" duration="3529000" />
     </task>
+    <task id="LOCAL-00001" summary="finished">
+      <option name="closed" value="true" />
+      <created>1691099835917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691099835917</updated>
+    </task>
+    <task id="LOCAL-00002" summary="delete the old code">
+      <option name="closed" value="true" />
+      <created>1691099935348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691099935348</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished" />
+    <MESSAGE value="delete the old code" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete the old code" />
   </component>
 </project>
