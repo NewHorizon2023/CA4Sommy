@@ -5,7 +5,6 @@ public class ReadData {
     public static Album[] readAllData() throws Exception {
         File directory = new File("");
         String name = directory.getAbsolutePath() + "/src/album.csv";
-        System.out.println("directory = " + name);
         Scanner sc = new Scanner(new File(name));
         Album[] albums = new Album[10000];
         sc.nextLine();

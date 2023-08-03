@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7eed9627-6bf5-47d8-8017-0317e07509ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddNewAlbumRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EmptyOrDigitsOnlyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Experiment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Experiment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReadData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReadData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/old/EmptyOrDigitsOnlyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/EmptyOrDigitsOnlyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/old/ReadAlbumData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/old/ReadAlbumData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +40,13 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2TUGa94rwyTVRFFMPViLWzkLKmc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,7 +56,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/CA/CA4Sommy",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,7 +73,35 @@
       <recent name="E:\CA\CA\src\old" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AddNewAlbumRecord">
+    <configuration name="AddNewAlbumRecord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddNewAlbumRecord" />
+      <module name="CA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="CA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmptyOrDigitsOnlyException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmptyOrDigitsOnlyException" />
+      <module name="CA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Experiment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Experiment" />
+      <module name="CA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReadData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ReadData" />
       <module name="CA" />
@@ -70,6 +111,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddNewAlbumRecord" />
+        <item itemvalue="Application.EmptyOrDigitsOnlyException" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Experiment" />
         <item itemvalue="Application.ReadData" />
       </list>
     </recent_temporary>
@@ -86,6 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691090308603</updated>
       <workItem from="1691090309610" duration="1012000" />
+      <workItem from="1691096393793" duration="3348000" />
     </task>
     <servers />
   </component>

@@ -275,7 +275,7 @@ public class ReadAlbumData {
             
        
             // Test for my binary search
-//            newPackage.Album[] arr = binarySearch(albums1, 0.88f);
+//            Album[] arr = binarySearch(albums1, 0.88f);
 //            System.out.println(Arrays.toString(arr));
             
 //            newPackage.Album[] arr1 = addNewAlbumRecord(albums1, "", 2, 0.11f, 1.11f, 2.11f);
